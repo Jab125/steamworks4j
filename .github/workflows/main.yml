@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
-      - name: Checkout Steamworks SDK 1.59
+      - name: Checkout Steamworks SDK 1.59 plz
         uses: actions/checkout@v4
         with:
           repository: rlabrecque/SteamworksSDK
